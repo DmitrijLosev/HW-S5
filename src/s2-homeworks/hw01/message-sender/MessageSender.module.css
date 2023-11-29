@@ -29,9 +29,7 @@
     opacity: 0.9;
     padding:12px 0 ;
 }
-.textarea:focus {
-outline: 1px solid #0059b3;
-}
+
 
 .button {
     width: 120px;
